@@ -1,16 +1,12 @@
-# flutter_social_app
+# Flutter - Social Media App
 
-A new Flutter project.
+## Screenshots
+![capa](https://user-images.githubusercontent.com/11803107/172061179-826057e9-f650-46a8-bddd-2901fe7134e5.PNG)
 
-## Getting Started
+## Créditos
+### Design 
+https://www.uplabs.com/posts/social-media-app-2965d924-52a9-4936-b423-a345cb6defb6
+![preview](https://user-images.githubusercontent.com/11803107/172061279-bf73ceb7-f637-4f53-90ad-7319cf4184e3.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Licença
+MIT - Consulte o arquivo LICENSE.txt
